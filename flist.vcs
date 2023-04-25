@@ -1,0 +1,7 @@
+#addbit.sv
+#top.sv
+#tb.sv
+#reg.sv
+#reg_tb.sv
+p_test.sv
+p_mod.sv
